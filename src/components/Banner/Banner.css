@@ -1,0 +1,43 @@
+.hero {
+  background-image: linear-gradient(
+      to right,
+      rgba(60, 58, 95, 0.308) 0%,
+      rgba(129, 187, 241, 0.3) 100%
+    ),
+    url("https://image.freepik.com/free-photo/portrait-happy-proud-redhead-woman-pointing-finger-mobile-phone-screen-horizontal-smartphone-display-showing-store-application-interface-white_176420-40858.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+}
+.hero h6 {
+  font-weight: 600;
+  color: #292560;
+}
+.hero h1 {
+  font-weight: 300;
+  font-size: 52px;
+  color: #fff;
+}
+.hero p {
+  font-size: 18px;
+  font-weight: 400;
+  color: #fff;
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 992px) {
+  .hero {
+    height: auto;
+    padding: 60px 0;
+  }
+  .hero h1 {
+    font-weight: 600;
+    font-size: 36px;
+  }
+  .heroBtn {
+    padding: 15px 30px;
+  }
+}
