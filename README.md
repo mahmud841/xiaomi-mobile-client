@@ -3,8 +3,8 @@
 Xiaomi Mobile App is a smartphone related online shop where people are able to find the best smartphones around the world to buy. An user can also register, manage his/her orders and can review the smartphones they bought.
 
 ## Live link of Website : [Live-preview](https://xiaomi-mobile-corner841.netlify.app)
-## Github Client Side : [Github-Client] (https://github.com/mahmud841/xiaomi-mobile-client)
-## Github Server Side : [Github-Server] (https://github.com/mahmud841/xiaomi-mobile-server)
+## Github Client Side : [Github-Client](https://github.com/mahmud841/xiaomi-mobile-client)
+## Github Server Side : [Github-Server](https://github.com/mahmud841/xiaomi-mobile-server)
 
 <!-- #### Phone Shop Client Code Link: [https://github.com/programming-hero-web-course-4/niche-website-client-side-Rupok-Koiry](https://github.com/programming-hero-web-course-4/niche-website-client-side-Rupok-Koiry)
 
